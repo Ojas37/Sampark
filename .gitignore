@@ -1,0 +1,10 @@
+﻿.venv/
+__pycache__/
+*.py[cod]
+*.db
+*.db-shm
+*.db-wal
+.env
+frontend/node_modules/
+frontend/dist/
+backend/data/files/*.pdf
